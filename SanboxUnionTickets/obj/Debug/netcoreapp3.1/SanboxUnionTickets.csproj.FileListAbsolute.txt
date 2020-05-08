@@ -1,0 +1,13 @@
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\obj\Debug\netcoreapp3.1\SanboxUnionTickets.csprojAssemblyReference.cache
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\obj\Debug\netcoreapp3.1\SanboxUnionTickets.csproj.CoreCompileInputs.cache
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\obj\Debug\netcoreapp3.1\SanboxUnionTickets.AssemblyInfoInputs.cache
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\obj\Debug\netcoreapp3.1\SanboxUnionTickets.AssemblyInfo.cs
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\bin\Debug\netcoreapp3.1\SanboxUnionTickets.exe
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\bin\Debug\netcoreapp3.1\SanboxUnionTickets.deps.json
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\bin\Debug\netcoreapp3.1\SanboxUnionTickets.runtimeconfig.json
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\bin\Debug\netcoreapp3.1\SanboxUnionTickets.runtimeconfig.dev.json
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\bin\Debug\netcoreapp3.1\SanboxUnionTickets.dll
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\bin\Debug\netcoreapp3.1\SanboxUnionTickets.pdb
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\obj\Debug\netcoreapp3.1\SanboxUnionTickets.dll
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\obj\Debug\netcoreapp3.1\SanboxUnionTickets.pdb
+C:\Users\zab33\source\repos\SanboxUnionTickets\SanboxUnionTickets\obj\Debug\netcoreapp3.1\SanboxUnionTickets.genruntimeconfig.cache
