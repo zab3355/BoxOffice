@@ -2,6 +2,11 @@
 
 namespace SanboxUnionTickets
 {
+
+    /*
+     * author: Zach Brown
+     * Box Office Simulator
+    */
     class Program
     {
         static void Main(string[] args)
@@ -23,7 +28,7 @@ namespace SanboxUnionTickets
             //define the sum
             int sum;
 
-            //for loop to differentiate tickets remaining versus available 
+            //for loop to ask user for valid tickets, loop will continue until there's a valid ticket number
             for (int i = 0; i < 10; i++)
             {
             //Enter movie name
@@ -153,6 +158,7 @@ namespace SanboxUnionTickets
                 }
             }
 
+            //individual reports
             Console.WriteLine("\nWhich theater do you wish to see a report for? ");
 
             string movieReport = Console.ReadLine();
